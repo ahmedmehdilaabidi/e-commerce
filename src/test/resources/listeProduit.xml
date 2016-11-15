@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<produit idProduit="1" referenceProduit="A1"  nom="P1" description="desc1"  taille="S" prix="10.2" />
+	<produit idProduit="2" referenceProduit="A2"  nom="P2" description="desc2"  taille="S" prix="10.8" />
+	<produit idProduit="3" referenceProduit="A3"  nom="P4" description="desc3"  taille="S" prix="11" />
+</dataset>
